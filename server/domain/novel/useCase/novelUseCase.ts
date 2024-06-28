@@ -1,5 +1,4 @@
 import { transaction } from 'service/prismaClient';
-import { aO } from 'vitest/dist/reporters-yx5ZTtEV';
 
 export const novelUseCase = {
   // スクレイピング
